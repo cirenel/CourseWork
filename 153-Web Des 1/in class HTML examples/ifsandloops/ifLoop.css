@@ -1,0 +1,33 @@
+h3 {
+    display: inline;
+}
+
+h5 {
+    display: inline;
+}
+
+#diceRolls,
+#names,
+#while {
+    border: 2px black solid;
+    border-radius: 30px;
+    margin: 10px;
+    padding: 2%;
+    max-width: fit-content;
+}
+
+#diceRolls {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+
+#names {
+    display: inline-block;
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+#while {
+    background: rgb(34, 193, 195);
+    background: linear-gradient(45deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+}
