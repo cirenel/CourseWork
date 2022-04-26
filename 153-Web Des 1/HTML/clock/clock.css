@@ -1,0 +1,90 @@
+body {
+    background-color: black;
+}
+
+div {
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 10%;
+    border-radius: 40px;
+    min-width: fit-content;
+    max-width: fit-content;
+    z-index: -10;
+    border: 1px solid lime;
+    box-shadow: inset 5px 5px 8px rgba(0, 112, 24, 0.3), 9px 9px 70px green;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60pt;
+    color: lime;
+    padding: 50px;
+}
+
+#overlay {
+    background: linear-gradient(344deg, rgba(0, 0, 0, 0.24) 0%, rgba(183, 255, 178, 0.5) 47%, rgba(209, 255, 196, 0.5) 53%, rgba(0, 0, 0, 0.24) 100%);
+    opacity: 0.4;
+    z-index: 10;
+}
+
+#analog {
+    border-radius: 0;
+    box-shadow: none;
+    border: none;
+}
+
+#analogHcirc {
+    background-color: aqua;
+    min-width: 15px;
+}
+
+#analogMcirc {
+    background-color: darkslateblue;
+    min-width: 20px;
+}
+
+#analogScirc {
+    background-color: rgb(139, 61, 91);
+    min-width: 5px;
+}
+
+.semi {
+    width: inherit;
+    left: 50%;
+    transform: translate(-50%, 0);
+    position: absolute;
+    top: 400px;
+    border: 1px solid black;
+    border-radius: 0px;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 499px;
+    border-bottom-left-radius: 499px;
+    min-width: 30px;
+    min-height: 275px;
+    box-shadow: none;
+    box-shadow: inset black 12% 12% 15%;
+}
+
+#analog {
+    min-width: 500px;
+    min-height: 500px;
+}
+
+#center {
+    top: 234px;
+    left: 234px;
+    min-height: 34px;
+    min-width: 34px;
+    border-radius: 30px;
+    background-color: rgb(158, 54, 97);
+    box-shadow: inset black 3px 3px 4px, rgb(172, 70, 133) 2px 2px 3px;
+}
+
+.analog {
+    min-width: 500px;
+    min-height: 500px;
+    border-radius: 499px;
+    box-shadow: inset 5px 5px 8px rgba(112, 0, 62, 0.3), 9px 9px 70px rgb(128, 0, 128);
+    border: 1px solid rebeccapurple;
+}

@@ -1,0 +1,100 @@
+<html>
+
+<head>
+    <title>
+        Form Examples
+    </title>
+    <link href="../css/example.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+
+    <form id="form1" action="" method="get">
+        <h1>This is a form!</h1>
+        <br/> Username: <input type="text" name="username" size="15" maxlength="10" />
+        <br/> Password: <input type="password" name="password" size="15" />
+        <br/> Comments: <textarea name="comments">Enter any comments here... </textarea>
+        <br/> Comments: <textarea name="comment1" placeholder="Enter any comments here..."></textarea>
+
+        <br/> <input type="radio" name="buttongroup" value="button1" /> Button 1
+        <input type="radio" name="buttongroup" value="button2" /> Button 2
+        <input type="radio" name="buttongroup" value="button3" checked="checked" /> Button 3
+
+
+        <br/> <input type="checkbox" name="checkboxgroup" value="box1" /> Check 1
+        <input type="checkbox" name="checkboxgroup" value="box2" /> Check 2
+        <input type="checkbox" name="checkboxgroup" value="box3" /> Check 3
+
+        <br />
+        <select name="selection">
+            <option value="opt1"> Option 1 </option>
+            <option value="opt2"> Option 2 </option>
+            <option value="opt3"> Option 3 </option>
+        </select>
+
+        <br />
+        <select name="selectionMulti" multiple="multiple" size="6">
+            <option value="opt4"> Option 4 </option>
+            <option value="opt5"> Option 5 </option>
+            <option value="opt6"> Option 6 </option>
+            <option value="opt7"> Option 7 </option>
+            <option value="opt8"> Option 8 </option>
+            <option value="opt9"> Option 9 </option>
+        </select>
+
+        <br/>
+        <input type="file" name="fileupload" />
+
+        <br />
+        <input type="submit" name="submitButton" />
+
+    </form>
+
+    <style>
+        label {
+            color: #1ef505;
+            background-color: rgba(50, 128, 182, 0.5);
+            font-size: 20pt;
+        }
+    </style>
+
+
+
+    <form id="form2" action="" method="get">
+        <h1>This is another form!</h1>
+        <input type="text" name="username" required="required" />
+        <br />
+
+        <input type="date" name="exitDate" />
+
+        <br />
+        <input type="number" name="exNumber" min="10" max="100" />
+
+        <br/>
+        <input type="search" name="search" placeholder="Type Thing Here" />
+
+        <br/>
+        <input id="but1" type="radio" name="buttongroup" value="button1" />
+        <label for="but1">Button 1</label>
+
+        <input id="but2" type="radio" name="buttongroup" value="button2" />
+        <label for="but2" style="color:rebeccapurple; font-family: 'Courier New', Courier, monospace;">Button 2</label>
+
+        <input id="but3" type="radio" name="buttongroup" value="button3" checked="checked" />
+        <label for="but3">Button 3</label>
+        <input type="submit" name="submitButton" />
+
+        <!-- <input type="image" src="../img/james-iris.jpg" width="50px" />-->
+
+    </form>
+
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/qoqfCg-qs3E" title="EXAMPLE IFRAME" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
+    </iframe>
+
+
+</body>
+
+</html>

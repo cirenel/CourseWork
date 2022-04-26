@@ -1,0 +1,13 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+}
+
+body {
+    color: blue;
+}
+
+html {
+    background-image: url('..\\img\\Quokka.jpg');
+    color: orangered!important;
+}

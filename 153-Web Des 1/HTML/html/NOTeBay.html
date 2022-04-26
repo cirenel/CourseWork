@@ -1,0 +1,97 @@
+<!-- YOUR NAME HERE -->
+
+<html>
+
+<head>
+    <link href="../css/example.css" type="text/css" rel="stylesheet" />
+
+</head>
+<!--    -->
+
+<body>
+    <!-- <script src="scripts/timeOfDay.js"></script>-->
+
+    <div id="page">
+        <div id="car" class="listing">
+            <img src="../img/stu.jpg" width="400">
+            <h1>1956 Studebaker Hawk 2-Door</h1>
+            <p> a real fixer upper. 1956 classic. No rust damage at all.</p>
+            <p id="message"></p>
+            <hr />
+            <form>
+                <p>Current Bid: $<span id="bidPrice">500</span></p>
+                <p>
+                    <label>Your Bid: 
+                <input type="text" name="bid" required="required" placeholder="SOME MONEY"/>
+                     </label>
+
+                    <fieldset>
+                        <legend>Payment Type</legend>
+
+                        <input type="radio" value="Credit Card" name="pay" id="cc" />
+                        <label for="cc"> Credit Card </label>
+
+                        <input type="radio" value="PayPal" name="pay" id="pp" />
+                        <label for="pp"> PayPal </label>
+
+                        <input type="radio" value="Crypto" name="pay" id="crypt" />
+                        <label for="crypt"> Crypto </label>
+
+                        <input type="radio" value="Purchase Order" id="po" name="pay" />
+                        <label for="po"> Purchase Order </label>
+
+                    </fieldset>
+
+
+                    <input type="submit" class="bid" name="bidButton" value="PLACE BID" />
+
+                    <input type="image" src="../img/submitButton.jpg" height="60" />
+
+                </p>
+            </form>
+            <hr/>
+        </div>
+        <div id="snek" class="listing">
+            <img src="../img/snek.jpg" width="400">
+            <h1>Green snake. Chill Dude.</h1>
+            <p> a noodle friend.</p>
+
+            <hr />
+            <form>
+
+                <p>Current Bid: $10</p>
+                <p>
+                    <label>Your Bid: 
+                <input type="text" name="bid" required="required" placeholder="SOME MONEY"/>
+            </label>
+
+                    <fieldset>
+                        <legend>Payment Type</legend>
+
+                        <input type="radio" value="Credit Card" name="pay" id="cc" />
+                        <label for="cc"> Credit Card </label>
+
+                        <input type="radio" value="PayPal" name="pay" id="pp" />
+                        <label for="pp"> PayPal </label>
+
+                        <input type="radio" value="Crypto" name="pay" id="crypt" />
+                        <label for="crypt"> Crypto </label>
+
+                        <input type="radio" value="Purchase Order" id="po" name="pay" />
+                        <label for="po"> Purchase Order </label>
+
+                    </fieldset>
+
+
+                    <input type="submit" class="bid" name="bidButton" value="PLACE BID" />
+
+                    <input type="image" src="../img/submitButton.jpg" height="60" />
+
+                </p>
+            </form>
+            <hr/>
+        </div>
+    </div>
+</body>
+
+</html>

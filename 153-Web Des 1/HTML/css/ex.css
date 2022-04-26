@@ -1,0 +1,167 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+@font-face {
+    font-family: 'orange2';
+    src: url('C://Users//cluikart//HTML//font//Peasone.otf');
+}
+
+@import url("960_16_col.css");
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    color: blue;
+    font-family: orange2, Georgia, 'Times New Roman', Times, serif;
+    font-size: 50pt;
+    text-decoration: double;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.75);
+}
+
+p {
+    color: cadetblue;
+    background-color: white;
+    position: relative;
+    align-items: center;
+    font-style: oblique;
+}
+
+div.listing {
+    box-shadow: 5px 5px 3px #000000;
+    box-sizing: border-box;
+    margin: 2%;
+    border-style: double;
+    border-width: 8px;
+    border-bottom-width: 15px;
+    border-color: rgb(30, 124, 152);
+    width: 80%;
+    border: auto;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    padding: 50px auto;
+    /*background-image: url('C://Users//cluikart//HTML//img//R.jpg');
+   */
+    background-size: 10%;
+    background-blend-mode: soft-light;
+    background-position-x: 50%;
+    background-color: #7883AB;
+    border-width: 20px;
+    color: #078f66;
+}
+
+fieldset>legend {
+    font-size: larger;
+    font-style: italic;
+}
+
+p {
+    font-family: fantasy;
+    color: darkslateblue;
+}
+
+ol {
+    list-style-type: lower-alpha;
+    list-style-position: outside;
+}
+
+ul {
+    list-style-type: "\1F44D";
+    list-style-position: inside;
+}
+
+ul>ul {
+    list-style-type: '\04C1';
+    list-style-position: inside;
+}
+
+table {
+    border-width: 4px;
+    border-color: turquoise;
+    border-style: groove;
+    padding: 8px;
+}
+
+th,
+td {
+    padding: 2px;
+    margin: 1px;
+    text-align: center;
+    padding: 5px;
+    margin: 1px;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 2px;
+    border-style: ridge;
+    width: 16.6%;
+}
+
+th {
+    text-transform: uppercase;
+}
+
+tr {
+    background-color: rgb(255, 214, 200);
+}
+
+tr.even {
+    background-color: rgb(190, 110, 83);
+}
+
+tr.head {
+    background-color: goldenrod;
+}
+
+td:hover {
+    background-color: black;
+    color: white;
+}
+
+div {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+input.bid:hover {
+    background-color: #078f66;
+}
+
+.example2 {
+    border-radius: 3px;
+    border-color: royalblue;
+    border-width: 6px;
+    border-style: outset;
+    background-color: salmon;
+    float: left;
+    width: 170px;
+    margin: 5px;
+}
+
+.example1 {
+    width: 750px;
+    float: right;
+    margin: 5px;
+}
+
+img.large {
+    width: 500px;
+    height: 500px;
+    margin: 0px auto;
+    display: block;
+}
+
+img.medium {
+    width: 250px;
+    height: 250px;
+    float: right;
+}
+
+img.small {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
