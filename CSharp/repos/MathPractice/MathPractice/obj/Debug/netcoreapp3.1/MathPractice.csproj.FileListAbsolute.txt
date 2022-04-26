@@ -1,0 +1,15 @@
+C:\Users\ciluk\source\repos\MathPractice\MathPractice\bin\Debug\netcoreapp3.1\MathPractice.exe
+C:\Users\ciluk\source\repos\MathPractice\MathPractice\bin\Debug\netcoreapp3.1\MathPractice.deps.json
+C:\Users\ciluk\source\repos\MathPractice\MathPractice\bin\Debug\netcoreapp3.1\MathPractice.runtimeconfig.json
+C:\Users\ciluk\source\repos\MathPractice\MathPractice\bin\Debug\netcoreapp3.1\MathPractice.runtimeconfig.dev.json
+C:\Users\ciluk\source\repos\MathPractice\MathPractice\bin\Debug\netcoreapp3.1\MathPractice.dll
+C:\Users\ciluk\source\repos\MathPractice\MathPractice\bin\Debug\netcoreapp3.1\MathPractice.pdb
+C:\Users\ciluk\source\repos\MathPractice\MathPractice\obj\Debug\netcoreapp3.1\MathPractice.Form1.resources
+C:\Users\ciluk\source\repos\MathPractice\MathPractice\obj\Debug\netcoreapp3.1\MathPractice.csproj.GenerateResource.cache
+C:\Users\ciluk\source\repos\MathPractice\MathPractice\obj\Debug\netcoreapp3.1\MathPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciluk\source\repos\MathPractice\MathPractice\obj\Debug\netcoreapp3.1\MathPractice.AssemblyInfoInputs.cache
+C:\Users\ciluk\source\repos\MathPractice\MathPractice\obj\Debug\netcoreapp3.1\MathPractice.AssemblyInfo.cs
+C:\Users\ciluk\source\repos\MathPractice\MathPractice\obj\Debug\netcoreapp3.1\MathPractice.csproj.CoreCompileInputs.cache
+C:\Users\ciluk\source\repos\MathPractice\MathPractice\obj\Debug\netcoreapp3.1\MathPractice.dll
+C:\Users\ciluk\source\repos\MathPractice\MathPractice\obj\Debug\netcoreapp3.1\MathPractice.pdb
+C:\Users\ciluk\source\repos\MathPractice\MathPractice\obj\Debug\netcoreapp3.1\MathPractice.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\ciluk\source\repos\Lotto\Lotto\bin\Debug\Lotto.exe.config
+C:\Users\ciluk\source\repos\Lotto\Lotto\bin\Debug\Lotto.exe
+C:\Users\ciluk\source\repos\Lotto\Lotto\bin\Debug\Lotto.pdb
+C:\Users\ciluk\source\repos\Lotto\Lotto\obj\Debug\Matching.csproj.AssemblyReference.cache
+C:\Users\ciluk\source\repos\Lotto\Lotto\obj\Debug\Lotto.Form1.resources
+C:\Users\ciluk\source\repos\Lotto\Lotto\obj\Debug\Lotto.Properties.Resources.resources
+C:\Users\ciluk\source\repos\Lotto\Lotto\obj\Debug\Matching.csproj.GenerateResource.cache
+C:\Users\ciluk\source\repos\Lotto\Lotto\obj\Debug\Matching.csproj.CoreCompileInputs.cache
+C:\Users\ciluk\source\repos\Lotto\Lotto\obj\Debug\Lotto.exe
+C:\Users\ciluk\source\repos\Lotto\Lotto\obj\Debug\Lotto.pdb

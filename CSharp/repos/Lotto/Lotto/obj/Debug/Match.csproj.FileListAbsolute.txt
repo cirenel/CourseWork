@@ -1,0 +1,9 @@
+C:\Users\ciluk\source\repos\Lotto\Lotto\obj\Debug\Match.Form1.resources
+C:\Users\ciluk\source\repos\Lotto\Lotto\obj\Debug\Match.Properties.Resources.resources
+C:\Users\ciluk\source\repos\Lotto\Lotto\obj\Debug\Match.csproj.GenerateResource.cache
+C:\Users\ciluk\source\repos\Lotto\Lotto\obj\Debug\Match.csproj.CoreCompileInputs.cache
+C:\Users\ciluk\source\repos\Lotto\Lotto\bin\Debug\Match.exe.config
+C:\Users\ciluk\source\repos\Lotto\Lotto\bin\Debug\Match.exe
+C:\Users\ciluk\source\repos\Lotto\Lotto\bin\Debug\Match.pdb
+C:\Users\ciluk\source\repos\Lotto\Lotto\obj\Debug\Match.exe
+C:\Users\ciluk\source\repos\Lotto\Lotto\obj\Debug\Match.pdb

@@ -1,0 +1,11 @@
+C:\Users\ciluk\source\repos\guessingGame\guessingGame\bin\Debug\guessingGame.exe.config
+C:\Users\ciluk\source\repos\guessingGame\guessingGame\bin\Debug\guessingGame.exe
+C:\Users\ciluk\source\repos\guessingGame\guessingGame\bin\Debug\guessingGame.pdb
+C:\Users\ciluk\source\repos\guessingGame\guessingGame\obj\Debug\guessingGame.csproj.AssemblyReference.cache
+C:\Users\ciluk\source\repos\guessingGame\guessingGame\obj\Debug\guessingGame.Form1.resources
+C:\Users\ciluk\source\repos\guessingGame\guessingGame\obj\Debug\guessingGame.Properties.Resources.resources
+C:\Users\ciluk\source\repos\guessingGame\guessingGame\obj\Debug\guessingGame.csproj.GenerateResource.cache
+C:\Users\ciluk\source\repos\guessingGame\guessingGame\obj\Debug\guessingGame.csproj.CoreCompileInputs.cache
+C:\Users\ciluk\source\repos\guessingGame\guessingGame\obj\Debug\guessingGame.exe
+C:\Users\ciluk\source\repos\guessingGame\guessingGame\obj\Debug\guessingGame.pdb
+C:\Users\ciluk\source\repos\guessingGame\guessingGame\obj\Debug\guessingGame.Settings.resources

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cluikart\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cluikart\\.nuget\\packages"
+    ]
+  }
+}

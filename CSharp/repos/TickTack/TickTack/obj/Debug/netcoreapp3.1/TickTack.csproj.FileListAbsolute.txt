@@ -1,0 +1,16 @@
+C:\Users\ciluk\source\repos\TickTack\TickTack\bin\Debug\netcoreapp3.1\TickTack.exe
+C:\Users\ciluk\source\repos\TickTack\TickTack\bin\Debug\netcoreapp3.1\TickTack.deps.json
+C:\Users\ciluk\source\repos\TickTack\TickTack\bin\Debug\netcoreapp3.1\TickTack.runtimeconfig.json
+C:\Users\ciluk\source\repos\TickTack\TickTack\bin\Debug\netcoreapp3.1\TickTack.runtimeconfig.dev.json
+C:\Users\ciluk\source\repos\TickTack\TickTack\bin\Debug\netcoreapp3.1\TickTack.dll
+C:\Users\ciluk\source\repos\TickTack\TickTack\bin\Debug\netcoreapp3.1\TickTack.pdb
+C:\Users\ciluk\source\repos\TickTack\TickTack\obj\Debug\netcoreapp3.1\TickTack.csproj.AssemblyReference.cache
+C:\Users\ciluk\source\repos\TickTack\TickTack\obj\Debug\netcoreapp3.1\TickTack.TicTak.resources
+C:\Users\ciluk\source\repos\TickTack\TickTack\obj\Debug\netcoreapp3.1\TickTack.csproj.GenerateResource.cache
+C:\Users\ciluk\source\repos\TickTack\TickTack\obj\Debug\netcoreapp3.1\TickTack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciluk\source\repos\TickTack\TickTack\obj\Debug\netcoreapp3.1\TickTack.AssemblyInfoInputs.cache
+C:\Users\ciluk\source\repos\TickTack\TickTack\obj\Debug\netcoreapp3.1\TickTack.AssemblyInfo.cs
+C:\Users\ciluk\source\repos\TickTack\TickTack\obj\Debug\netcoreapp3.1\TickTack.csproj.CoreCompileInputs.cache
+C:\Users\ciluk\source\repos\TickTack\TickTack\obj\Debug\netcoreapp3.1\TickTack.dll
+C:\Users\ciluk\source\repos\TickTack\TickTack\obj\Debug\netcoreapp3.1\TickTack.pdb
+C:\Users\ciluk\source\repos\TickTack\TickTack\obj\Debug\netcoreapp3.1\TickTack.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\ciluk\source\repos\SimpleGame\SimpleGame\bin\Debug\netcoreapp3.1\Planner.exe
+C:\Users\ciluk\source\repos\SimpleGame\SimpleGame\bin\Debug\netcoreapp3.1\Planner.deps.json
+C:\Users\ciluk\source\repos\SimpleGame\SimpleGame\bin\Debug\netcoreapp3.1\Planner.runtimeconfig.json
+C:\Users\ciluk\source\repos\SimpleGame\SimpleGame\bin\Debug\netcoreapp3.1\Planner.runtimeconfig.dev.json
+C:\Users\ciluk\source\repos\SimpleGame\SimpleGame\bin\Debug\netcoreapp3.1\Planner.dll
+C:\Users\ciluk\source\repos\SimpleGame\SimpleGame\bin\Debug\netcoreapp3.1\Planner.pdb
+C:\Users\ciluk\source\repos\SimpleGame\SimpleGame\obj\Debug\netcoreapp3.1\SimpleGame.Form1.resources
+C:\Users\ciluk\source\repos\SimpleGame\SimpleGame\obj\Debug\netcoreapp3.1\Planner.csproj.GenerateResource.cache
+C:\Users\ciluk\source\repos\SimpleGame\SimpleGame\obj\Debug\netcoreapp3.1\Planner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciluk\source\repos\SimpleGame\SimpleGame\obj\Debug\netcoreapp3.1\Planner.AssemblyInfoInputs.cache
+C:\Users\ciluk\source\repos\SimpleGame\SimpleGame\obj\Debug\netcoreapp3.1\Planner.AssemblyInfo.cs
+C:\Users\ciluk\source\repos\SimpleGame\SimpleGame\obj\Debug\netcoreapp3.1\Planner.csproj.CoreCompileInputs.cache
+C:\Users\ciluk\source\repos\SimpleGame\SimpleGame\obj\Debug\netcoreapp3.1\Planner.dll
+C:\Users\ciluk\source\repos\SimpleGame\SimpleGame\obj\Debug\netcoreapp3.1\Planner.pdb
+C:\Users\ciluk\source\repos\SimpleGame\SimpleGame\obj\Debug\netcoreapp3.1\Planner.genruntimeconfig.cache

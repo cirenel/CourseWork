@@ -1,0 +1,83 @@
+/*do not edit this document do not edit this document do not edit this document 
+**do not edit this document do not edit this document do not edit this document 
+**do not edit this document do not edit this document do not edit this document 
+**do not edit this document do not edit this document do not edit this document 
+**do not edit this document do not edit this document do not edit this document 
+**do not edit this document do not edit this document do not edit this document 
+**do not edit this document do not edit this document do not edit this document 
+**do not edit this document do not edit this document do not edit this document 
+**do not edit this document do not edit this document do not edit this document 
+**do not edit this document do not edit this document do not edit this document 
+**do not edit this document do not edit this document do not edit this document 
+*/
+
+.filter-red {
+    filter: invert(13%) sepia(53%) saturate(5482%) hue-rotate(335deg) brightness(78%) contrast(132%);
+}
+
+.filter-orange {
+    filter: invert(68%) sepia(59%) saturate(7126%) hue-rotate(2deg) brightness(105%) contrast(88%);
+}
+
+.filter-yellow {
+    filter: invert(100%) sepia(34%) saturate(4373%) hue-rotate(328deg) brightness(109%) contrast(101%);
+}
+
+.filter-green {
+    filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
+}
+
+.filter-blue {
+    filter: invert(68%) sepia(68%) saturate(6223%) hue-rotate(215deg) brightness(102%) contrast(87%);
+}
+
+.filter-indigo {
+    filter: invert(40%) sepia(9%) saturate(2526%) hue-rotate(202deg) brightness(91%) contrast(89%);
+}
+
+.filter-violet {
+    filter: invert(19%) sepia(16%) saturate(6968%) hue-rotate(249deg) brightness(98%) contrast(94%);
+}
+
+.filter-pink {
+    filter: invert(84%) sepia(85%) saturate(947%) hue-rotate(234deg) brightness(102%) contrast(104%);
+}
+
+.filter-teal {
+    filter: invert(73%) sepia(46%) saturate(5312%) hue-rotate(119deg) brightness(101%) contrast(105%);
+}
+
+.filter-white {
+    filter: invert(100%) sepia(100%) saturate(2%) hue-rotate(301deg) brightness(105%) contrast(101%);
+}
+
+.filter-brown {
+    filter: invert(20%) sepia(7%) saturate(3239%) hue-rotate(343deg) brightness(99%) contrast(90%);
+}
+
+.smoothieImg {
+    max-height: 50px;
+    width: 50px;
+    display: block;
+    margin: auto;
+}
+
+.imgBtm {
+    height: 50px;
+    z-index: 0;
+    position: absolute;
+    top: inherit;
+    left: inherit;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.imgTop {
+    height: 50px;
+    z-index: 10;
+    position: relative;
+    top: inherit;
+    left: inherit;
+    display: block;
+    margin-bottom: 10px;
+}

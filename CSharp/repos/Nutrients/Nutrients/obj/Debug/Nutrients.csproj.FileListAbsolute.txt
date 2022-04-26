@@ -1,0 +1,9 @@
+C:\Users\ciluk\source\repos\Nutrients\Nutrients\bin\Debug\Nutrients.exe.config
+C:\Users\ciluk\source\repos\Nutrients\Nutrients\bin\Debug\Nutrients.exe
+C:\Users\ciluk\source\repos\Nutrients\Nutrients\bin\Debug\Nutrients.pdb
+C:\Users\ciluk\source\repos\Nutrients\Nutrients\obj\Debug\Nutrients.csproj.AssemblyReference.cache
+C:\Users\ciluk\source\repos\Nutrients\Nutrients\obj\Debug\Nutrients.Primary.resources
+C:\Users\ciluk\source\repos\Nutrients\Nutrients\obj\Debug\Nutrients.csproj.GenerateResource.cache
+C:\Users\ciluk\source\repos\Nutrients\Nutrients\obj\Debug\Nutrients.csproj.CoreCompileInputs.cache
+C:\Users\ciluk\source\repos\Nutrients\Nutrients\obj\Debug\Nutrients.exe
+C:\Users\ciluk\source\repos\Nutrients\Nutrients\obj\Debug\Nutrients.pdb

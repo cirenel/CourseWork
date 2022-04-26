@@ -1,0 +1,10 @@
+C:\Users\ciluk\source\repos\Tables\Tables\bin\Debug\Tables.exe.config
+C:\Users\ciluk\source\repos\Tables\Tables\bin\Debug\Tables.exe
+C:\Users\ciluk\source\repos\Tables\Tables\bin\Debug\Tables.pdb
+C:\Users\ciluk\source\repos\Tables\Tables\obj\Debug\Tables.csproj.AssemblyReference.cache
+C:\Users\ciluk\source\repos\Tables\Tables\obj\Debug\Tables.Form1.resources
+C:\Users\ciluk\source\repos\Tables\Tables\obj\Debug\Tables.Properties.Resources.resources
+C:\Users\ciluk\source\repos\Tables\Tables\obj\Debug\Tables.csproj.GenerateResource.cache
+C:\Users\ciluk\source\repos\Tables\Tables\obj\Debug\Tables.csproj.CoreCompileInputs.cache
+C:\Users\ciluk\source\repos\Tables\Tables\obj\Debug\Tables.exe
+C:\Users\ciluk\source\repos\Tables\Tables\obj\Debug\Tables.pdb

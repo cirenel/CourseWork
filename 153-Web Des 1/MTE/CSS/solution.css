@@ -1,0 +1,138 @@
+header h1,
+header h2,
+header h3,
+header h4,
+header h5 {
+    color: #ff6600e9;
+    text-shadow: 2px 2px 3px #5300009a;
+    display: block;
+}
+
+nav {
+    clear: both;
+    color: #530000;
+    background-color: #c8000081;
+    height: 30px;
+    display: block;
+}
+
+.grid_3 {
+    border: 2px black solid;
+    border-radius: 3px;
+    background-color: aliceblue;
+    min-height: 150px;
+    height: 450px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    z-index: -10;
+}
+
+.grid_3:hover {
+    background-color: rgba(255, 68, 0, 0.418);
+    text-shadow: 1px 1px black;
+    box-shadow: 3px 3px 5px rgba(102, 60, 45, 0.644);
+    color: white;
+}
+
+.grid_3 h3 {
+    /*    height: 45pt;
+    */
+    font-size: 15pt;
+    text-align: center;
+    vertical-align: middle;
+}
+
+p {
+    text-align: left;
+    margin: 3px;
+}
+
+.insideGrid {
+    margin: auto;
+}
+
+header {
+    background-image: url(../img/fruit.jpg);
+    background-position: 0 0;
+    background-size: cover;
+    position: fixed;
+    width: 100%;
+    z-index: 15;
+}
+
+.container_12 {
+    position: relative;
+    top: 210px;
+}
+
+body {
+    color: #ad4500;
+    background-color: rgb(255, 148, 109);
+    background-position: center;
+    font-family: Georgia, Times, serif;
+    line-height: 1.4em;
+    margin: 0px;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 40px;
+}
+
+.disclaimer {
+    color: red;
+    background-color: rgba(255, 255, 0, 0.4);
+    text-shadow: 1px 1px 2px black;
+    box-shadow: 2px 2px 2px rgb(255, 255, 0);
+    margin: 2px;
+}
+
+.price {
+    color: rgb(172, 0, 100);
+    text-shadow: 1px 1px 3px rgb(59, 122, 0);
+    border: rgba(172, 0, 100, 0.37) dashed 3px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 15px;
+    padding: auto;
+    width: 70%;
+}
+
+#logo {
+    opacity: 0.8;
+    display: inline;
+    height: 100px;
+    margin: 10px;
+    border: black 2px solid;
+    border-radius: 3px;
+    padding: 10px;
+    background-color: rgba(245, 245, 245, 0.8);
+}
+
+header div {
+    vertical-align: middle;
+    display: flex;
+}
+
+header div div {
+    display: inline-block;
+}
+
+aside {
+    float: right;
+    position: fixed;
+    top: 230px;
+    left: 75%;
+    margin: auto;
+}
+
+aside div {
+    margin: auto;
+    width: 90%;
+}

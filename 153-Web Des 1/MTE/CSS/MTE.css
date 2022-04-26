@@ -1,0 +1,66 @@
+/* 
+** You will edit this document. 
+** You CAN change what is here. 
+** The css here is meant to get you started. 
+*/
+
+.insideGrid {
+    margin: auto;
+}
+
+.price {
+    background-color: red;
+    color: blue;
+}
+
+body {
+    background-position: center;
+    font-size: xx-small;
+    font-family: wingdings;
+    color: whitesmoke;
+    background-color: white;
+    line-height: 1.4em;
+    margin: 0px;
+}
+
+header {
+    background-image: url(../img/fruit.jpg);
+    width: 100%;
+}
+
+header div {
+    vertical-align: middle;
+    display: flex;
+}
+
+header div div {
+    display: inline-block;
+}
+
+nav {
+    color: red;
+    background-color: blue;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 40px;
+}
+
+aside {
+    float: right;
+    position: fixed;
+    top: 230px;
+    left: 75%;
+    margin: auto;
+}
+
+aside div {
+    margin: auto;
+    width: 90%;
+}

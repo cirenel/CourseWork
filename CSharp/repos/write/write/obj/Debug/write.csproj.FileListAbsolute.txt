@@ -1,0 +1,14 @@
+C:\Users\ciluk\source\repos\write\write\bin\Debug\write.exe.config
+C:\Users\ciluk\source\repos\write\write\bin\Debug\write.exe
+C:\Users\ciluk\source\repos\write\write\bin\Debug\write.pdb
+C:\Users\ciluk\source\repos\write\write\obj\Debug\write.csproj.AssemblyReference.cache
+C:\Users\ciluk\source\repos\write\write\obj\Debug\write.Properties.Resources.resources
+C:\Users\ciluk\source\repos\write\write\obj\Debug\write.csproj.GenerateResource.cache
+C:\Users\ciluk\source\repos\write\write\obj\Debug\write.csproj.CoreCompileInputs.cache
+C:\Users\ciluk\source\repos\write\write\obj\Debug\write.exe
+C:\Users\ciluk\source\repos\write\write\obj\Debug\write.pdb
+C:\Users\ciluk\source\repos\write\write\bin\Debug\en\write.resources.dll
+C:\Users\ciluk\source\repos\write\write\obj\Debug\en\write.resources.dll
+C:\Users\ciluk\source\repos\write\write\obj\Debug\write.Writer.resources
+C:\Users\ciluk\source\repos\write\write\obj\Debug\write.Writer.en.resources
+C:\Users\ciluk\source\repos\write\write\obj\Debug\write.DisplayPopup.resources
