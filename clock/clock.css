@@ -1,0 +1,110 @@
+body {
+    background-color: black;
+}
+
+div {
+    display: grid;
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 10%;
+    border-radius: 40px;
+    min-width: fit-content;
+    max-width: fit-content;
+    /*    z-index: -10;
+    border: 1px solid lime;  
+    box-shadow: inset 5px 5px 8px rgba(0, 112, 24, 0.3), 9px 9px 70px green;
+*/
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60pt;
+    color: lime;
+    padding: 50px;
+}
+
+#overlay {
+    background: linear-gradient(344deg, rgba(0, 0, 0, 0.24) 0%, rgba(183, 255, 178, 0.5) 47%, rgba(209, 255, 196, 0.5) 53%, rgba(0, 0, 0, 0.24) 100%);
+    opacity: 0.4;
+    z-index: 10;
+}
+
+
+/*
+#analog {
+    border-radius: 0;
+    box-shadow: none;
+    border: none;
+}*/
+
+.tick,
+.bigTick {
+    min-height: inherit;
+    min-width: inherit;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 0px;
+    margin: 0;
+    box-shadow: inset rgba(0, 0, 0, 0.75) 230px 230px 240px, rgba(0, 0, 0, 0.75) -20px -20px 30px;
+    opacity: 0.85;
+    z-index: -20;
+}
+
+#analogMcirc {
+    background-color: rgb(0, 168, 168);
+    box-shadow: inset rgb(0, 255, 255) 75px 75px 70px, inset rgb(0, 77, 77) -75px -75px 70px;
+    /*, black 50px 50px 45px, black -50px -50px 45px;
+    /* min-width: 15px;*/
+}
+
+#analogHcirc {
+    background-color: rgb(69, 61, 139);
+    box-shadow: inset rgb(132, 119, 255) 75px 75px 70px, inset rgb(35, 32, 61) -75px -75px 70px;
+    /*,, black 50px 50px 45px, black -50px -50px 45px;
+    /* min-width: 20px;*/
+}
+
+#analogScirc {
+    background-color: rgb(139, 61, 91);
+    box-shadow: inset rgb(255, 0, 98) 75px 75px 70px, inset rgb(61, 0, 23) -75px -75px 70px;
+    /*,, black 50px 50px 45px, black -50px -50px 45px;
+    /* min-width: 5px;*/
+}
+
+.semi {
+    width: inherit;
+    position: absolute;
+    border: 1px solid black;
+    border-radius: 0px;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 200px;
+    border-bottom-left-radius: 200px;
+    min-width: inherit;
+    min-height: inherit;
+    border: none;
+    box-shadow: inset black 12% 12% 15%;
+    margin: 0;
+}
+
+#center {
+    position: absolute;
+    min-width: inherit;
+    min-height: inherit;
+    border-radius: inherit;
+    background-color: rgb(0, 0, 0);
+    box-shadow: inset rgba(255, 255, 255, 0.6) 30px 30px 35px, inset rgba(255, 255, 255, 0.5) -30px -30px 150px, black 50px 50px 80px;
+    border: black solid 5px;
+    transform: scale(5%, 5%) translate(-18%, -18%);
+    margin: 0;
+}
+
+.analog {
+    min-width: 500px;
+    min-height: 500px;
+    border-radius: 499px;
+    box-shadow: -5px -5px 8px rgba(112, 0, 62, 0.5), 9px 9px 70px rgb(128, 0, 128, 0.6), inset rgba(255, 177, 242, 0.75) 30px 30px 45px, inset rgba(147, 255, 246, 0.75) -30px -30px 45px;
+    border: 2px solid rgba(162, 0, 255, 0.8);
+    background: rgb(255, 255, 255);
+    z-index: -30;
+    /*  background: linear-gradient(121deg, rgba(2, 0, 36, 0.5) 0%, rgba(131, 144, 153, 0.75) 30%, rgba(132, 207, 187, 0.8) 40%, rgba(213, 247, 255, 0.8) 50%, rgba(166, 255, 239, 0.5438550420168067) 55%, rgba(134, 157, 162, 0.4374124649859944) 67%, rgba(0, 0, 0, 0.5) 100%);*/
+}
