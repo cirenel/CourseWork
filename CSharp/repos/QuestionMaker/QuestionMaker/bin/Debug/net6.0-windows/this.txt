@@ -1,0 +1,34 @@
+//[tag:tag1] 
+::tf test 1:: this is a false statement { F } 
+
+//[tag:tag1] 
+::tf test 2:: this is a true statement { T } 
+
+
+$CATEGORY:MCTest
+
+//[tag:testTag] 
+::mcTest1:: here is the question { ~option 1
+~option 4
+=%50%option 2
+=%50%option 3
+ } 
+
+//[tag:testTag] 
+::mc question 2:: mc question 2 { ~option 1
+~option 2
+~option 3
+=option 4
+ } 
+
+
+$CATEGORY:matchTest
+
+//[tag:testTag] 
+::matching test:: match the numbers to the words {
+=one -> 1
+=two -> 2
+=three -> 3
+ }
+
+
