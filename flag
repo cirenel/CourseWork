@@ -1,3 +1,9 @@
 FREE 
 <a href="/flag">lolol</a>
+<a href="flag">lolol</a>
+<a href="articles/flag">lolol</a>
+<a href="/articles/flag">lolol</a>
 <a href = "../../../../../../../etc/passwd">linkable</a>
+    <?php
+      die("can php do?");
+    ?>
