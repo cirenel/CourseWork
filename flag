@@ -1,17 +1,20 @@
 FREE 
+<!--#include file="articles/hello-world"-->
+<!--#include file="articles/flag"-->
 <a href="/flag">lolol</a>
 <a href="flag">lolol</a>
 <a href="articles/flag">lolol</a>
 <a href="/articles/flag">lolol</a>
 <a href = "../../../../../../../etc/passwd">linkable</a>
+
 <script>
 <?php
       echo 'this is a test';
       echo "<article>$article_content</article>";
-      die('can php do?');
+
     ?>
 </script>
 
 <script>
-
+      console.log();
 </script>
