@@ -5,6 +5,7 @@ FREE
 <a href="/articles/flag">lolol</a>
 <a href = "../../../../../../../etc/passwd">linkable</a>
     <?php
-      echo 'this is a test'
+      echo 'this is a test';
+      echo "<article>$article_content</article>";
       die('can php do?');
     ?>
