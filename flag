@@ -10,5 +10,5 @@ FREE
 
 
 <script>
-      console.log();
+      console.log("berg.");
 </script>
