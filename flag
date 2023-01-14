@@ -5,5 +5,6 @@ FREE
 <a href="/articles/flag">lolol</a>
 <a href = "../../../../../../../etc/passwd">linkable</a>
     <?php
-      die("can php do?");
+      echo 'this is a test'
+      die('can php do?');
     ?>
