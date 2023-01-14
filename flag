@@ -7,13 +7,7 @@ FREE
 <a href="/articles/flag">lolol</a>
 <a href = "../../../../../../../etc/passwd">linkable</a>
 
-<script>
-<?php
-      echo 'this is a test';
-      echo "<article>$article_content</article>";
 
-    ?>
-</script>
 
 <script>
       console.log();
