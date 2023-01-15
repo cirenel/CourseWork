@@ -1,5 +1,6 @@
 FREE 
 <!--#include file="articles/hello-world"-->
+<!--#include file="articles/flag.txt"-->
 <!--#include file="articles/flag"-->
 <a href="/flag">lolol</a>
 <a href="flag">lolol</a>
