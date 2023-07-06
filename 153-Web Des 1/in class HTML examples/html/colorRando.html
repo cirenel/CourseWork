@@ -1,0 +1,21 @@
+<html>
+<script>
+    function setColor() {
+        var R = Math.random() * 255;
+        var G = Math.random() * 255;
+        var B = Math.random() * 255;
+        var element = document.getElementById('patch');
+        element.style.backgroundColor = 'rgb(' + R + ',' + G + ',' + B + ')';
+
+    }
+</script>
+
+<body>
+
+    <div id="patch" onClick="setColor()" style="min-height:300px; max-height:300px; min-width:300px; max-width:300px; border:3px black solid; border-radius:30px; margin:auto;">
+        <span style="font-size:20pt; position: relative; top:20%;">Click Here</span>
+    </div>
+
+</body>
+
+</html>

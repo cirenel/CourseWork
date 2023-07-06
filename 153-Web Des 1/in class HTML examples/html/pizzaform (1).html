@@ -1,0 +1,97 @@
+<html>
+
+<head>
+    <title>Pizza Form Example</title>
+
+
+    <!--internal CSS -->
+    <style type="text/css">
+        p {
+            color: brown;
+        }
+
+        h5 {
+            color: aqua;
+            background-color: darkblue;
+        }
+    </style>
+
+    <!--external CSS connection-->
+    <link href="firststyle.css" type="text/css" rel="stylesheet" />
+
+
+</head>
+
+<body>
+    <!--a few things to look at for next time -->
+    <div style="display: flex; justify-content: space-around;">
+        <h1 style="width:fit-content;background-color:rgba(0, 128, 0, 0.43);">&#127829; Place your Pizza order here
+            &#127829;
+        </h1>
+
+    </div>
+
+    <div>
+
+        <form id="pizzaOrder">
+
+            <div>
+                <!--inline CSS-->
+                <h5 style="color:lime;background-color:black;">Name on Order:</h5>
+                <input type="text" name="customer" />
+            </div>
+
+            <!--example radio button group -->
+            <div>
+                <h5>Size:</h5>
+                <input type="radio" name="size" value="S" />Small
+                <input type="radio" name="size" value="M" />Medium
+                <input type="radio" name="size" value="L" />Large
+            </div>
+
+            <!--example radio button group with labels-->
+            <div>
+                <h5>Crust Type:</h5>
+
+                <input type="radio" name="crust" value="thin" id="thin" />
+                <label for="thin">Thin</label>
+                <input type="radio" name="crust" value="thick" id="thick" />
+                <label for="thick">Deep Dish</label>
+                <input type="radio" name="crust" value="handtossed" id="hand" />
+                <label for="hand">Hand Tossed</label>
+            </div>
+
+            <!--drop down menu-->
+            <div>
+                <h5> Select Your Sauce:</h5>
+                <select name="sauce">
+                    <option value="red">Traditional Marinaria</option>
+                    <option value="white">Alfredo</option>
+                    <option value="special">Grandma's Homemade Spicy Kick</option>
+                </select>
+            </div>
+
+            <!--Check boxes!-->
+            <div>
+                <h5>Select Your Toppings</h5>
+                <input type="checkbox" name="topping" value="pep" /> Pepperoni
+                <input type="checkbox" name="topping" value="ham" /> Ham
+                <input type="checkbox" name="topping" value="sas" /> Sasuage
+                <input type="checkbox" name="topping" value="oli" /> Olives
+                <input type="checkbox" name="topping" value="tom" /> Tomato
+                <input type="checkbox" name="topping" value="ros" /> Rosemary
+                <input type="checkbox" name="topping" value="ter" /> The tears of my enemies
+                -
+            </div>
+
+            <div>
+                <input type="submit" name="Order" />
+            </div>
+        </form>
+
+
+    </div>
+
+</body>
+
+</html>
